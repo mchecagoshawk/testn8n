@@ -1,0 +1,21 @@
+project: Gestión de proyectos y tareas
+crm: Gestión de clientes y oportunidades comerciales
+sales: Ventas y presupuestos
+purchase: Compras y proveedores
+account: Contabilidad y facturación
+stock: Inventario y almacenes
+hr: Recursos humanos y empleados
+hr_timesheet: Partes de horas y seguimiento de tiempo
+website: Sitio web y portal público
+website_blog: Blog corporativo
+website_sale: Tienda online (eCommerce)
+helpdesk: Soporte y tickets de clientes
+l10n_es: Localización contable España
+l10n_es_facturae: Facturación electrónica España
+documents: Gestión documental
+calendar: Calendario y reuniones
+mail: Comunicación interna y correo
+contacts: Gestión de contactos y empresas
+marketing_automation: Automatización de marketing
+survey: Encuestas y formularios
+fleet: Gestión de flotas de vehículos
