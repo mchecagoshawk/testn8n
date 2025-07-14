@@ -1,0 +1,17 @@
+# Demo Odoo - Chat ID: 848110254
+
+## Necesidades del Usuario
+quiero una demo para controlar los proyectos y la flota de mi emrpesa
+
+## Módulos a Instalar
+project
+fleet
+hr
+hr_timesheet
+account
+
+## Fecha de Creación
+2025-07-14T08:19:32.815Z
+
+## Estado
+Pendiente de instalación
